@@ -1,0 +1,12 @@
+parameters:
+    level: 0
+    scanDirectories:
+        - vendor/pauple/pluginator/src
+    paths:
+        - includes
+        - components
+    excludePaths:
+        - includes/lib/berlin-db
+includes:
+    - vendor/szepeviktor/phpstan-wordpress/extension.neon
+    
