@@ -24,8 +24,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-//$config['base_url'] = 'http://localhost/website/jefes2/';
-$config['base_url'] = 'https://201.174.219.90/jefes2/';
+$config['base_url'] = 'http://localhost/website/jefes2/';
+//$config['base_url'] = 'https://201.174.219.90/jefes2/';
 
 /*
 |--------------------------------------------------------------------------
